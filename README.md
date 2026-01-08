@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi👋 I'm Yashvi Shrest
+I'm a passionate learner with an interest in building web applications and solving algorithmic problems.
+
+🎓 B.Tech student | 💻 Aspiring Software Developer  
+🚀 Learning Data Structures & Tailwind CSS
+
+Leetcode Profile : https://leetcode.com/u/Yashvi_Shrest/
 
 <!--
 **Yashvi005-bit/Yashvi005-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
