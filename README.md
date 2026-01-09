@@ -2,7 +2,7 @@
 I'm a passionate learner with an interest in building web applications and solving algorithmic problems.
 
 🎓 B.Tech student | 💻 Aspiring Software Developer  
-🚀 Learning Data Structures & Tailwind CSS
+🚀 Learning Data Structures & Node.js
 
 Leetcode Profile : https://leetcode.com/u/Yashvi_Shrest/
 
