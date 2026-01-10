@@ -1,8 +1,10 @@
 ## Hi👋 I'm Yashvi Shrest
 I'm a passionate learner with an interest in building web applications and solving algorithmic problems.
 
-🎓 B.Tech student | 💻 Aspiring Software Developer  
+🎓 B.Tech student | 💻 Aspiring Software Developer
+
 🌱 Always open to collaborate on fun frontend projects
+
 🚀 Currently learning Data Structures & Node.js
 
 Leetcode Profile : https://leetcode.com/u/Yashvi_Shrest/
