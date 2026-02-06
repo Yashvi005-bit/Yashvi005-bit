@@ -5,7 +5,7 @@ I'm a passionate learner with an interest in building web applications and solvi
 
 🌱 Always open to collaborate on fun frontend projects
 
-🚀 Currently learning Data Structures & Node.js
+🚀 Currently learning MERN stack and DSA
 
 Leetcode Profile : https://leetcode.com/u/Yashvi_Shrest/
 
