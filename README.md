@@ -3,8 +3,7 @@ I'm a passionate learner with an interest in building web applications and solvi
 
 🎓 B.Tech student | 💻 Aspiring Software Developer
 
-🌱 Always open to collaborate on fun frontend projects
-
+🌱 Always open to collaborate on fun open-source projects
 🚀 Currently learning React and next.js
 
 Leetcode Profile : https://leetcode.com/u/Yashvi_Shrest/
