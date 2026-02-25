@@ -5,7 +5,7 @@ I'm a passionate learner with an interest in building web applications and solvi
 
 🌱 Always open to collaborate on fun frontend projects
 
-🚀 Currently learning MERN stack and DSA
+🚀 Currently learning React and next.js
 
 Leetcode Profile : https://leetcode.com/u/Yashvi_Shrest/
 
@@ -21,6 +21,8 @@ Leetcode Profile : https://leetcode.com/u/Yashvi_Shrest/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50">
+          
           
           
           
