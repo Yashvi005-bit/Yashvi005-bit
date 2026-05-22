@@ -24,18 +24,6 @@
 
 Leetcode Profile : https://leetcode.com/u/Yashvi_Shrest/
 
-## 🌟 Open Source Experience
-
-- Active contributor in **GSSoC**
-- Experience working with GitHub Issues & Pull Requests
-- Collaborated on frontend and backend improvements
-- Familiar with open-source contribution workflow:
-  - Forking repositories
-  - Creating feature branches
-  - Raising pull requests
-  - Resolving merge conflicts
-  - Code reviews
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -46,8 +34,7 @@ Leetcode Profile : https://leetcode.com/u/Yashvi_Shrest/
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashvi005-bit&theme=tokyonight" />
 </p
 
-
-## 📊 GitHub Analytics
+ ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashvi005-bit&theme=tokyonight" />
