@@ -10,7 +10,7 @@
 
 ---
 
-🌱 Currently learning **Next.js, and advanced backend development**
+🌱 Currently learning **Machine Learning and advanced backend development**
 
 💻 Skilled in **JavaScript, Node.js, Express.js, MongoDB, React,Java**
 
