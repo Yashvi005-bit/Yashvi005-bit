@@ -4,8 +4,12 @@
 🚀 Full Stack Developer | Backend Enthusiast | Open Source Contributor
 </h3>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=FullStack+Developer;DSA+and+Problem+Solving+Enthusiast;Open+Source+Contributor;Building+Scalable+Web+Applications" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yashvi005-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
