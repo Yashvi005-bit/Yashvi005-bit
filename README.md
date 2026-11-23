@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashvi Shrest</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | Backend Enthusiast | Open Source Contributor
+Aspiring AI Engineer | GenAI, RAG & AI Agents | Building Intelligent Applications
 </h3>
 
 
@@ -13,18 +13,25 @@
 </p> -->
 
 ---
+I am a Computer Science undergraduate passionate about Artificial Intelligence, Generative AI, and building intelligent applications that solve real-world problems.
+My focus is on developing AI-powered systems using LLMs, RAG pipelines, AI agents, and backend technologies. I enjoy experimenting with AI workflows and transforming ideas into practical applications.
 
-🌱 Currently learning **GenAI and Cloud technologies**
 
-💻 Skilled in **JavaScript, Node.js, Express.js, MongoDB, React,Java**
+- Exploring Generative AI, Agentic AI & LLM-based systems
 
-🧠 Solved **200+ DSA problems** on leetcode
+- Building applications using RAG, LangChain & LangGraph
 
-🚀 Built projects using **REST APIs, Authentication, and Database Integration**
+- Developing AI backends with Python & FastAPI
 
-🤝 Open to collaborating on **Open Source Projects**
+- Working with vector databases, embeddings, retrieval pipelines, and LLM integration
 
-📫 Reach me at: **yashvishrest@gmail.com**
+- Strong foundation in DSA, Java, backend development & REST APIs
+
+- Interested in building intelligent, autonomous AI applications
+
+- Hackathon participant & open-source contributor
+
+- Email: yashvishrest@gmail.com
 
 Leetcode Profile : https://leetcode.com/u/Yashvi_Shrest/
 
